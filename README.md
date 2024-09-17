@@ -1,2 +1,2 @@
 # Machine Learning
-This repository is for my machine learning practice
+This repository is for my machine learning practice also machine learning course
